@@ -7,6 +7,6 @@ En este repositorio se encuentran todos los proyectos hechos en el transcurso de
 
 [3. Análisis de embudo y retención para MercadoLibre](https://github.com/manuelmichoacan/proyectos_tripleten/blob/main/Proyecto%204_%20An%C3%A1lisis%20de%20embudo%20y%20retenci%C3%B3n%20para%20MercadoLibre%20-%20Resumen%20ejecutivo.xlsx)
 
-[4. Prepara y estructura datos con Python](https://github.com/manuelmichoacan/proyectos_tripleten/blob/main/S5%20ladb_mobility_economy_project_student.ipynb)
+[4. Movilidad urbana y productividad económica](https://github.com/manuelmichoacan/AmericanDevelopmentBank)
 
-[5. Análisis de una empresa de telecomunicaciones](https://github.com/manuelmichoacan/ConnectaTel/)
+[5. Análisis de una empresa de telecomunicaciones](https://github.com/manuelmichoacan/ConnectaTel)
